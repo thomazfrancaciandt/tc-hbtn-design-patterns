@@ -2,7 +2,6 @@ import java.util.UUID;
 
 public class CalculadorSalarioService {
     public UUID uuid = UUID.randomUUID();
-
     private static CalculadorSalarioService instacia;
 
     private CalculadorSalarioService() {
