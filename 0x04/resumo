@@ -1,0 +1,10 @@
+Em 2005, Alistair Cockburn publicou um artigo no qual descrevia que a intenção da arquitetura hexagonal era que uma aplicação pudesse ser utilizada por usuários, programas, testes automatizados e scripts da mesma forma e que pudesse ser desenvolvida e testada tanto isoladamente. de seus eventuais dispositivos e bancos
+
+ independência de tecnologia e e facilidade para serem testados.
+
+
+Assemelha-se à proposta da Hexagonal Architecture, mas segue a linha proposta por outro padrão, o Onion architecture. É outra forma de representar a hierarquia entre as camadas, mas mantendo as premissas de isolamento e inversão de dependências.
+
+
+Podem ser criadas qualquer aplicacao utilizando arquitetada hexagonal. 
+O ideal e entender a necessidade se a mesma se adequa para implementar no projeto.
